@@ -26,6 +26,7 @@ I'm Alex — a dedicated software developer and aspiring machine learning engine
 ---
 
 ## 📫 How to reach me
+- Website: *https://gibo-alt.github.io/Alex_Website/*
 - Email: **gagibson882@gmail.com**  
 - LinkedIn: [linkedin.com/in/alex-dev-alt](linkedin.com/in/gerard-alexander-gibson-347953288)
 
