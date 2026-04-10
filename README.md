@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm @Gibo-alt
 
-I'm Alex — a dedicated software developer and aspiring machine learning engineer, currently in my second year of a Bachelor of Computer and Information Sciences in Application Development. My journey is all about blending creativity with technology to build impactful solutions.
+I'm Alex — a dedicated software developer and aspiring machine learning engineer, currently in my last year (3rd year) of a Bachelor of Computer and Information Sciences in Application Development. My journey is all about blending creativity with technology to build impactful solutions.
 
 ---
 
